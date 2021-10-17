@@ -1,0 +1,40 @@
+
+main{
+    font-family:Arial;
+}
+
+.h1 {
+    color:rgb(223, 41, 71);
+}
+
+.centralizado {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    list-style: none;
+    
+}
+
+.indice {
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p, #url, #url1 {
+    font-weight: bold;
+}
+
+#url {
+    color: crimson;
+}
+
+#url1 {
+    color: darkmagenta;
+}
+
+#list {
+    list-style-type: circle;
+}
+
+#list1{
+    list-style-type: square;
+}
